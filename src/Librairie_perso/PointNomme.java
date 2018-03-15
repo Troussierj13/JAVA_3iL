@@ -1,4 +1,4 @@
-package Collection;
+package Librairie_perso;
 
 public class PointNomme extends Couple<Integer>{
 

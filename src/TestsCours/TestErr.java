@@ -1,8 +1,10 @@
-package Java_Avance;
+package TestsCours;
+
+import Cours.Err;
 
 import java.util.Arrays;
 
-public class TP_Exception {
+public class TestErr {
 
     static public void main(String[] arg) {
         Ex9();

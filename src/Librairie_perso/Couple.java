@@ -1,4 +1,4 @@
-package Collection;
+package Librairie_perso;
 
 class Couple<T> {
     private T x,y;		// les deux éléments du couple

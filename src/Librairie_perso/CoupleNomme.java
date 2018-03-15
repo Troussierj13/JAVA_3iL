@@ -1,4 +1,4 @@
-package Collection;
+package Librairie_perso;
 
 public class CoupleNomme<T> extends Couple<T>{
 
